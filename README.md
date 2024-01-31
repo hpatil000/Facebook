@@ -1,7 +1,9 @@
-Overview
+**Overview**
+
 This project utilizes Python to perform various data manipulation operations on Amazon book review and Facebook metrics datasets. The main objectives include creating data subsets, sorting data, transposing data, melting data into a long format, and merging different datasets.
 
-Operations
+**Operations**
+
 Create Data Subsets: Extract relevant subsets from the Amazon book review and Facebook metrics datasets to focus on specific aspects of the data.
 
 Sort Data: Organize the data to facilitate analysis by sorting it based on relevant criteria.
